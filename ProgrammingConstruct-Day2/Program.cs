@@ -14,8 +14,9 @@
             //LargestNumber largestnumber = new LargestNumber();
             //largestnumber.FindLargestNumber();
 
-           WeekDaysName weekDaysName = new WeekDaysName();
+            WeekDaysName weekDaysName = new WeekDaysName();
             weekDaysName.WeekDays();
+            
 
         }
        
